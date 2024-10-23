@@ -1,4 +1,4 @@
-# final_project_python
+# IT-school-Analysis
 Cleaning and Analyzing Data from the CRM System to Improve the Efficiency of the Online Programming School:
 
 4 Excel files
