@@ -51,4 +51,4 @@ Understand the metric tree for the business.
 
 Determine which product metrics they will impact and formulate hypotheses.
 
-Describe the method for testing the hypotheses, including the conditions for conducting the hypotheses.
+Describe the method for testing the hypotheses, including the conditions for conducting the hypotheses!
