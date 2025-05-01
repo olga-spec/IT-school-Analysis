@@ -1,12 +1,14 @@
 # IT-school-Analysis
 Cleaning and Analyzing Data from the CRM System to Improve the Efficiency of the Online Programming School:
 
+
 4 Excel files
 Explanations of the datasets
 Mandatory tasks to be implemented in Python
 Mandatory tasks to be implemented in Product Analytics
 
 Python Assignment
+
 
 Data Cleaning and Preparation:
 
@@ -50,4 +52,3 @@ Understand the metric tree for the business.
 Determine which product metrics they will impact and formulate hypotheses.
 
 Describe the method for testing the hypotheses, including the conditions for conducting the hypotheses.
-
